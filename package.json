@@ -1,6 +1,6 @@
 {
-  "name": "togthr-template",
-  "version": "1.0.0",
+  "name": "sample",
+  "version": "0.0.01",
   "private": true,
   "dependencies": {
     "parcel-bundler": "^1.6.1",
